@@ -78,8 +78,9 @@ Install Handwritten-Digit-Recognition-System using one of the following methods:
 
 3. Install the project dependencies:
 
-echo 'pip install numpy pandas matplotlib seaborn tensorflow scikit-learn'
-
+```sh
+❯ pip install numpy pandas matplotlib seaborn tensorflow scikit-learn
+```
 
 
 ###  Usage
