@@ -79,14 +79,16 @@ Install Handwritten-Digit-Recognition-System using one of the following methods:
 3. Install the project dependencies:
 
 ```sh
-❯ pip install numpy pandas matplotlib seaborn tensorflow scikit-learn
+pip install numpy pandas matplotlib seaborn tensorflow scikit-learn
 ```
 
 
 ###  Usage
 Run Handwritten-Digit-Recognition-System using the following command:
-echo 'python3 digit_recognition.py'
 
+```sh
+python3 digit_recognition.py
+```
 
 
 ##  Acknowledgments
